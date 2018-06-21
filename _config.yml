@@ -1,0 +1,10 @@
+# site settings
+title: SimpleTrack
+author: Megan Boudreau
+description: "SimpleTrack is an app that allows you to define and track anything you want"
+
+# build settings
+port: 4000
+highlighter: pygments
+markdown: kramdown
+permalink: pretty
