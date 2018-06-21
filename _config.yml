@@ -5,6 +5,6 @@ description: "SimpleTrack is an app that allows you to define and track anything
 
 # build settings
 port: 4000
-highlighter: pygments
+highlighter: rouge
 markdown: kramdown
 permalink: pretty
